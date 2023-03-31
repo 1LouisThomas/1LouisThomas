@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello+my+name+is+Louis+Thomas+I+am+a;+full+stack+developer+in++MMI+at+Troyes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7C358&background=FFF8C76B&width=435&lines=hello+my+name+is+Louis+Thomas+%2CI+am+a;+full+stack+developer+in++MMI+at+Troyes)](https://git.io/typing-svg)
 <!--
 **1LouisThomas/1LouisThomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
